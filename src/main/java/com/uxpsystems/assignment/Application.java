@@ -27,8 +27,6 @@ import org.springframework.transaction.PlatformTransactionManager;
 import com.uxpsystems.assignment.entity.UserTbl;
 
 @SpringBootApplication
-//@EntityScan( basePackages = {"com.uxpsystems.assignment.entity"} )
-//@ComponentScan("com.uxpsystems.assignment")
 
 public class Application {
 	public	static	void	 main(String[] args) {
